@@ -1,1 +1,1 @@
-# Tomato-Plant-Disease-Recognition
+# Tomato Plant Disease Recognition
